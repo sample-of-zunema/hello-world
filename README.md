@@ -1,4 +1,3 @@
 # hello-world
 
-・kui-ta 
-kijiyou
+・前進あるのみ
