@@ -1,2 +1,3 @@
-# hello-world
+# hello-world.
+
 ・プログラミング初心者
