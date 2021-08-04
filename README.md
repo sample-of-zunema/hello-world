@@ -1,4 +1,3 @@
 # hello-world.
 
-・arigatai
-tasukaru
+・gannbarimasu
