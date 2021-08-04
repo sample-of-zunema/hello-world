@@ -1,3 +1,4 @@
-# hello-world.
+# hello-world
 
-・gannbarimasu
+・kui-ta 
+kijiyou
